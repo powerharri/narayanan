@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+}
+p{
+    font-weight: bolder;
+    font-size: xx-large;
+    text-decoration: chocolate;
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;
+}
+p{
+    border-image: repeat;
+}
